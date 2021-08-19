@@ -1,12 +1,7 @@
 #!/usr/bin/env python
-
-#from lxml import html
 import requests
 from pprint import pprint
 from bs4 import *
-import cgitb
-
-cgitb.enable()
 
 a = []
 
